@@ -1,5 +1,4 @@
 # Byte-compiled / optimized / DLL files
-__pycache__/
 *.py[cod]
 *$py.class
 
@@ -137,7 +136,6 @@ dmypy.json
 *.sublime-project
 *.sublime-workspace
 
-.vscode/
 *.code-workspace
 
 # Local History for Visual Studio Code
